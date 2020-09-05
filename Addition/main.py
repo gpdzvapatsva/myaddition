@@ -8,3 +8,4 @@ print(num1+num2)
 answer = num1 *num2
 
 print("Multiplication ", answer)
+print("Multiplication ", answer*answer)
